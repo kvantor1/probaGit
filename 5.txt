@@ -1,3 +1,17 @@
 1. создание репозитория
 2. asdfasdf
-2222
+# Altium Designer
+History
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*\__Previews
+*.PrjPcbStructure
+*~$*
+*.Annotation
+*.LOG
+Project Outputs*
+Project Logs*
+Release
+
+
