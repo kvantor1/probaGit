@@ -4,3 +4,4 @@
 4.short status
 5. $ git log --oneline --decorate
 6. $ git branch testing
+7. test2a  add commit
