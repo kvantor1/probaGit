@@ -1,7 +1,2 @@
-1. создание репозитория
-2. первый коммит
-3. второй коммит
-4.short status
-5. $ git log --oneline --decorate
-6. $ git branch testing
-7. test2a  add commit
+1. master 1.txt
+2. master. add branch proba1

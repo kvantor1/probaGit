@@ -1,4 +1,1 @@
-1. создание репозитория
-2. третий коммит
-3.add short
-5. master commit
+1.master 2.txt
