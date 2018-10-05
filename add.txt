@@ -1,3 +1,0 @@
-1. add file
-2. git rm --cached add.txt
-8. commit to master after merger
