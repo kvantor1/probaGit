@@ -1,8 +1,1 @@
-1. создание репозитория
-2. первый коммит
-3. второй коммит
-4.short status
-5. $ git log --oneline --decorate
-6. $ git branch testing
-7. test2a  add commit
-8. commit to master after merger
+1.proba1. commit
