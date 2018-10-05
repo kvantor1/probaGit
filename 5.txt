@@ -16,4 +16,3 @@ Release
 diff --stage
 проба
 asdfgsdf
-1. add commit to master
