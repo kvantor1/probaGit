@@ -4,4 +4,8 @@
 4. master.commit2
 5. master.after prova1 rename 5-4.txt
 6. master. add branch proba2
+<<<<<<< HEAD
 7.
+=======
+
+>>>>>>> 4c1643272e52e23e7bee866fec5981c93c85d4c3
