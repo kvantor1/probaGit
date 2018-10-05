@@ -5,3 +5,4 @@ commit
 позвол€€ вам обойтись без git add:
 asdf
 sdfasdf
+8. commit to master after merger

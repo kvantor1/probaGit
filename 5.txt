@@ -17,3 +17,4 @@ diff --stage
 проба
 asdfgsdf
 5. commit after merge
+8. commit to master after merger
